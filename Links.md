@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-09 14:08 IR
+- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/mehdimax2032-ops/sandbox-mehdi/raw/main/dl/mhrv-rs-windows-amd64.zip) `224KB`
+
+---
+
+
 ### 📅 2026-05-09 11:09 IR
 - 📥 [OctoFetch_Setup.exe](https://github.com/mehdimax2032-ops/sandbox-mehdi/raw/main/dl/OctoFetch_Setup.exe) `55.0MB`
 
